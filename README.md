@@ -1,4 +1,4 @@
-<!--
+
 Arash Keshtgar
 
 Power Platform & Azure developer — Oakville, Ontario 🇨🇦
@@ -34,4 +34,4 @@ Low-code Power Apps (Canvas) · Power Automate · Dataverse Cloud Azure Function
 Working toward a Developer Analyst role on Power Platform and Azure. Building portfolio projects that are complete rather than demo-shaped — deployed, documented, and with the reasoning written down.
 
 📫 LinkedIn · akeshtgar@gmail.com
--->
+
